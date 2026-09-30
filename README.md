@@ -18,3 +18,4 @@ have to be read out of.
 `elf.html` is a standalone payload menu for the already-jailbroken case. It needs a
 host that runs code and can reach the console (`api/` ships PHP and node handlers),
 so it does not work on GitHub Pages - use the run page'"'"'s own menu there.
+https://tinyurl.com/2az2zlsa
